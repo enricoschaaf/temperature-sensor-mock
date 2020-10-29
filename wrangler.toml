@@ -1,0 +1,6 @@
+name = "temperature-sensor-mock"
+type = "javascript"
+account_id = "a97536062b6d58df82212389d565ffc7"
+workers_dev = true
+route = ""
+zone_id = ""
